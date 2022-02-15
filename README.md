@@ -6,3 +6,4 @@ Bolo de fubá
 Bolo de cenoura
 Bolo de banana
 Bolo de milho
+Bolo de canela
